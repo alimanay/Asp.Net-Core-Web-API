@@ -1,0 +1,68 @@
+﻿using Entites.Models;
+using Repositoires.Contracts;
+using Services.Contracts;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Services
+{
+    public class BookManager : IBookService
+    {
+        private readonly IRepositoryManager _manager;
+
+        public BookManager(IRepositoryManager manager)
+        {
+            _manager = manager;
+        }
+
+        public Book CreateOneBook(Book book) { 
+            if(book is null)
+            {
+                throw new ArgumentNullException(nameof(book));
+            }
+            _manager.Books.CreateOneBook(book);
+            _manager.Save();
+            return book;
+        }
+        
+       
+
+        public void DeleteOneBook(int id, bool trackChanges)
+        {
+            var entity = _manager.Books.GetOneBookById(id , trackChanges);
+            if (entity== null) { 
+             throw new Exception($"Book with id:{id} bulunamadı");
+            }  
+            _manager.Books.DeleteOneBook(entity);
+            _manager.Save();
+        }
+
+        public IEnumerable<Book> GetAllBook(bool trackChanges)
+        {
+            return _manager.Books.GetAllBooks(trackChanges);
+        }
+
+        public Book GetOneBookById(int id, bool trackChanges)
+        {
+            return _manager.Books.GetOneBookById(id, trackChanges);
+        }
+
+        public void  UpdateOneBook(int id, Book book, bool trackChanges)
+        {
+            var entity = _manager.Books.GetOneBookById(id, trackChanges);
+            if (entity == null)
+            {
+                throw new Exception($"Book with id:{id} bulunamadı");
+            }
+            if(book is null)throw new ArgumentNullException(nameof(book));
+          
+            entity.Title= book.Title;   
+            entity.Price= book.Price;
+            _manager.Books.Update (entity);
+            _manager.Save();
+        }
+    }
+}

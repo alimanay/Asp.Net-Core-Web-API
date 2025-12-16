@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\EfProject\\bsStoreApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{758B8C64-5D6F-480B-BFF2-102036FDB5D5}|WebApi\\WebApi.csproj|c:\\users\\alima\\desktop\\githubprojeler\\efproject\\bsstoreapp\\webapi\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{758B8C64-5D6F-480B-BFF2-102036FDB5D5}|WebApi\\WebApi.csproj|solutionrelative:webapi\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E16DDE-1913-4425-9781-0EE6ED9339ED}|Services\\Services.csproj|c:\\users\\alima\\desktop\\githubprojeler\\efproject\\bsstoreapp\\services\\loggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E16DDE-1913-4425-9781-0EE6ED9339ED}|Services\\Services.csproj|solutionrelative:services\\loggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E16DDE-1913-4425-9781-0EE6ED9339ED}|Services\\Services.csproj|c:\\users\\alima\\desktop\\githubprojeler\\efproject\\bsstoreapp\\services\\contracts\\iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E16DDE-1913-4425-9781-0EE6ED9339ED}|Services\\Services.csproj|solutionrelative:services\\contracts\\iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E16DDE-1913-4425-9781-0EE6ED9339ED}|Services\\Services.csproj|c:\\users\\alima\\desktop\\githubprojeler\\efproject\\bsstoreapp\\services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E16DDE-1913-4425-9781-0EE6ED9339ED}|Services\\Services.csproj|solutionrelative:services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E16DDE-1913-4425-9781-0EE6ED9339ED}|Services\\Services.csproj|c:\\users\\alima\\desktop\\githubprojeler\\efproject\\bsstoreapp\\services\\contracts\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E16DDE-1913-4425-9781-0EE6ED9339ED}|Services\\Services.csproj|solutionrelative:services\\contracts\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E16DDE-1913-4425-9781-0EE6ED9339ED}|Services\\Services.csproj|c:\\users\\alima\\desktop\\githubprojeler\\efproject\\bsstoreapp\\services\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E16DDE-1913-4425-9781-0EE6ED9339ED}|Services\\Services.csproj|solutionrelative:services\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E16DDE-1913-4425-9781-0EE6ED9339ED}|Services\\Services.csproj|c:\\users\\alima\\desktop\\githubprojeler\\efproject\\bsstoreapp\\services\\contracts\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E16DDE-1913-4425-9781-0EE6ED9339ED}|Services\\Services.csproj|solutionrelative:services\\contracts\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2DCD38-A4D2-4D4C-A6D1-B954C1CACDA3}|Repositoires\\Repositoires.csproj|c:\\users\\alima\\desktop\\githubprojeler\\efproject\\bsstoreapp\\repositoires\\contracts\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B2DCD38-A4D2-4D4C-A6D1-B954C1CACDA3}|Repositoires\\Repositoires.csproj|solutionrelative:repositoires\\contracts\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2DCD38-A4D2-4D4C-A6D1-B954C1CACDA3}|Repositoires\\Repositoires.csproj|c:\\users\\alima\\desktop\\githubprojeler\\efproject\\bsstoreapp\\repositoires\\contracts\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B2DCD38-A4D2-4D4C-A6D1-B954C1CACDA3}|Repositoires\\Repositoires.csproj|solutionrelative:repositoires\\contracts\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2DCD38-A4D2-4D4C-A6D1-B954C1CACDA3}|Repositoires\\Repositoires.csproj|c:\\users\\alima\\desktop\\githubprojeler\\efproject\\bsstoreapp\\repositoires\\contracts\\ibooksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B2DCD38-A4D2-4D4C-A6D1-B954C1CACDA3}|Repositoires\\Repositoires.csproj|solutionrelative:repositoires\\contracts\\ibooksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C57E82-E212-449C-B259-239FF52AC65A}|Presentation\\Presentation.csproj|c:\\users\\alima\\desktop\\githubprojeler\\efproject\\bsstoreapp\\presentation\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F1C57E82-E212-449C-B259-239FF52AC65A}|Presentation\\Presentation.csproj|solutionrelative:presentation\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C57E82-E212-449C-B259-239FF52AC65A}|Presentation\\Presentation.csproj|c:\\users\\alima\\desktop\\githubprojeler\\efproject\\bsstoreapp\\presentation\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C57E82-E212-449C-B259-239FF52AC65A}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C57E82-E212-449C-B259-239FF52AC65A}|Presentation\\Presentation.csproj|c:\\users\\alima\\desktop\\githubprojeler\\efproject\\bsstoreapp\\presentation\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C57E82-E212-449C-B259-239FF52AC65A}|Presentation\\Presentation.csproj|solutionrelative:presentation\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC0CE8E-28D5-4821-8BD6-C05F2A76292B}|Entites\\Entites.csproj|c:\\users\\alima\\desktop\\githubprojeler\\efproject\\bsstoreapp\\entites\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC0CE8E-28D5-4821-8BD6-C05F2A76292B}|Entites\\Entites.csproj|solutionrelative:entites\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758B8C64-5D6F-480B-BFF2-102036FDB5D5}|WebApi\\WebApi.csproj|c:\\users\\alima\\desktop\\githubprojeler\\efproject\\bsstoreapp\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{758B8C64-5D6F-480B-BFF2-102036FDB5D5}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758B8C64-5D6F-480B-BFF2-102036FDB5D5}|WebApi\\WebApi.csproj|c:\\users\\alima\\desktop\\githubprojeler\\efproject\\bsstoreapp\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758B8C64-5D6F-480B-BFF2-102036FDB5D5}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "nlog.config",
+              "DocumentMoniker": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\EfProject\\bsStoreApp\\WebApi\\nlog.config",
+              "RelativeDocumentMoniker": "WebApi\\nlog.config",
+              "ToolTip": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\EfProject\\bsStoreApp\\WebApi\\nlog.config",
+              "RelativeToolTip": "WebApi\\nlog.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-16T13:19:41.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoggerManager.cs",
+              "DocumentMoniker": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\EfProject\\bsStoreApp\\Services\\LoggerManager.cs",
+              "RelativeDocumentMoniker": "Services\\LoggerManager.cs",
+              "ToolTip": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\EfProject\\bsStoreApp\\Services\\LoggerManager.cs*",
+              "RelativeToolTip": "Services\\LoggerManager.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T12:06:24.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILoggerService.cs",
+              "DocumentMoniker": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\EfProject\\bsStoreApp\\Services\\Contracts\\ILoggerService.cs",
+              "RelativeDocumentMoniker": "Services\\Contracts\\ILoggerService.cs",
+              "ToolTip": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\EfProject\\bsStoreApp\\Services\\Contracts\\ILoggerService.cs*",
+              "RelativeToolTip": "Services\\Contracts\\ILoggerService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T12:00:14.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\EfProject\\bsStoreApp\\Services\\ServiceManager.cs",
+              "RelativeDocumentMoniker": "Services\\ServiceManager.cs",
+              "ToolTip": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\EfProject\\bsStoreApp\\Services\\ServiceManager.cs",
+              "RelativeToolTip": "Services\\ServiceManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T18:52:25.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookManager.cs",
+              "DocumentMoniker": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\EfProject\\bsStoreApp\\Services\\BookManager.cs",
+              "RelativeDocumentMoniker": "Services\\BookManager.cs",
+              "ToolTip": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\EfProject\\bsStoreApp\\Services\\BookManager.cs",
+              "RelativeToolTip": "Services\\BookManager.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T18:52:24.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\EfProject\\bsStoreApp\\Services\\Contracts\\IServiceManager.cs",
+              "RelativeDocumentMoniker": "Services\\Contracts\\IServiceManager.cs",
+              "ToolTip": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\EfProject\\bsStoreApp\\Services\\Contracts\\IServiceManager.cs",
+              "RelativeToolTip": "Services\\Contracts\\IServiceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T18:52:22.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\EfProject\\bsStoreApp\\Services\\Contracts\\IBookService.cs",
+              "RelativeDocumentMoniker": "Services\\Contracts\\IBookService.cs",
+              "ToolTip": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\EfProject\\bsStoreApp\\Services\\Contracts\\IBookService.cs",
+              "RelativeToolTip": "Services\\Contracts\\IBookService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T18:52:22.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepositoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\EfProject\\bsStoreApp\\Repositoires\\Contracts\\IRepositoryManager.cs",
+              "RelativeDocumentMoniker": "Repositoires\\Contracts\\IRepositoryManager.cs",
+              "ToolTip": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\EfProject\\bsStoreApp\\Repositoires\\Contracts\\IRepositoryManager.cs",
+              "RelativeToolTip": "Repositoires\\Contracts\\IRepositoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T18:52:13.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\EfProject\\bsStoreApp\\Repositoires\\Contracts\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Repositoires\\Contracts\\IRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\EfProject\\bsStoreApp\\Repositoires\\Contracts\\IRepositoryBase.cs",
+              "RelativeToolTip": "Repositoires\\Contracts\\IRepositoryBase.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T18:52:07.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBooksRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\EfProject\\bsStoreApp\\Repositoires\\Contracts\\IBooksRepository.cs",
+              "RelativeDocumentMoniker": "Repositoires\\Contracts\\IBooksRepository.cs",
+              "ToolTip": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\EfProject\\bsStoreApp\\Repositoires\\Contracts\\IBooksRepository.cs",
+              "RelativeToolTip": "Repositoires\\Contracts\\IBooksRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T18:52:03.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Presentation.csproj",
+              "DocumentMoniker": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\EfProject\\bsStoreApp\\Presentation\\Presentation.csproj",
+              "RelativeDocumentMoniker": "Presentation\\Presentation.csproj",
+              "ToolTip": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\EfProject\\bsStoreApp\\Presentation\\Presentation.csproj",
+              "RelativeToolTip": "Presentation\\Presentation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-14T18:51:59.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\EfProject\\bsStoreApp\\Presentation\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\EfProject\\bsStoreApp\\Presentation\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T18:51:54.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\EfProject\\bsStoreApp\\Presentation\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "Presentation\\AssemblyReference.cs",
+              "ToolTip": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\EfProject\\bsStoreApp\\Presentation\\AssemblyReference.cs",
+              "RelativeToolTip": "Presentation\\AssemblyReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T18:51:51.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\EfProject\\bsStoreApp\\Entites\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Entites\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\EfProject\\bsStoreApp\\Entites\\Models\\Book.cs",
+              "RelativeToolTip": "Entites\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T18:51:42.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\EfProject\\bsStoreApp\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\EfProject\\bsStoreApp\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-14T18:50:54.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\EfProject\\bsStoreApp\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\EfProject\\bsStoreApp\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T18:50:52.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
