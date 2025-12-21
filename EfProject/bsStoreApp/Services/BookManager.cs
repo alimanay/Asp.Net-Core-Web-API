@@ -1,4 +1,5 @@
-﻿using Entites.Models;
+﻿using Entites.Exceptions;
+using Entites.Models;
 using Repositoires.Contracts;
 using Services.Contracts;
 using System;
@@ -12,17 +13,16 @@ namespace Services
     public class BookManager : IBookService
     {
         private readonly IRepositoryManager _manager;
+        private readonly ILoggerService _loggerService;
 
-        public BookManager(IRepositoryManager manager)
+        public BookManager(IRepositoryManager manager, ILoggerService loggerService)
         {
             _manager = manager;
+            _loggerService = loggerService;
         }
 
         public Book CreateOneBook(Book book) { 
-            if(book is null)
-            {
-                throw new ArgumentNullException(nameof(book));
-            }
+ 
             _manager.Books.CreateOneBook(book);
             _manager.Save();
             return book;
@@ -33,9 +33,8 @@ namespace Services
         public void DeleteOneBook(int id, bool trackChanges)
         {
             var entity = _manager.Books.GetOneBookById(id , trackChanges);
-            if (entity== null) { 
-             throw new Exception($"Book with id:{id} bulunamadı");
-            }  
+            if (entity== null) 
+                throw new BookNotFoundException(id);
             _manager.Books.DeleteOneBook(entity);
             _manager.Save();
         }
@@ -44,21 +43,16 @@ namespace Services
         {
             return _manager.Books.GetAllBooks(trackChanges);
         }
-
         public Book GetOneBookById(int id, bool trackChanges)
         {
-            return _manager.Books.GetOneBookById(id, trackChanges);
+            var books = _manager.Books.GetOneBookById(id, trackChanges);
+            if (books is null) throw new BookNotFoundException(id);
+            return books;
         }
-
         public void  UpdateOneBook(int id, Book book, bool trackChanges)
         {
             var entity = _manager.Books.GetOneBookById(id, trackChanges);
-            if (entity == null)
-            {
-                throw new Exception($"Book with id:{id} bulunamadı");
-            }
-            if(book is null)throw new ArgumentNullException(nameof(book));
-          
+            if (entity == null) throw new BookNotFoundException(id);
             entity.Title= book.Title;   
             entity.Price= book.Price;
             _manager.Books.Update (entity);

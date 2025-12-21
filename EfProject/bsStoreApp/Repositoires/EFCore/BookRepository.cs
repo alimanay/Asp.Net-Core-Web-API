@@ -27,7 +27,7 @@ namespace Repositoires.EFCore
         public void UpdateOneBook(Book book)=>Update(book);
 
          public  Book  GetOneBookById(int id, bool trackChanges)=>
-        FindByCondition(a => a.Equals(id), trackChanges).SingleOrDefault();
+        FindByCondition(a => a.Id==id, trackChanges).SingleOrDefault();
         
     }
 }

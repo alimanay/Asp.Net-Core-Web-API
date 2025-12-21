@@ -1,0 +1,80 @@
+2025-12-16 16:49:31.3927 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-12-16 16:49:31.4051 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2025-12-16 16:49:31.4228 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Users\alima\Desktop\GitHubProjeler\Asp.Net-Core-Web-API\EfProject\bsStoreApp\WebApi\nlog.config
+2025-12-16 16:51:34.9021 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-12-16 16:51:34.9165 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2025-12-16 16:51:34.9336 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Users\alima\Desktop\GitHubProjeler\Asp.Net-Core-Web-API\EfProject\bsStoreApp\WebApi\nlog.config
+2025-12-16 16:53:14.9907 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-12-16 16:53:15.0028 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2025-12-16 16:53:15.0208 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Users\alima\Desktop\GitHubProjeler\Asp.Net-Core-Web-API\EfProject\bsStoreApp\WebApi\nlog.config
+2025-12-16 16:53:44.4065 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-12-16 16:53:44.4250 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2025-12-16 16:53:44.4521 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Users\alima\Desktop\GitHubProjeler\Asp.Net-Core-Web-API\EfProject\bsStoreApp\WebApi\nlog.config
+2025-12-16 16:54:12.8992 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-12-16 16:54:12.9116 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2025-12-16 16:54:12.9313 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Users\alima\Desktop\GitHubProjeler\Asp.Net-Core-Web-API\EfProject\bsStoreApp\WebApi\nlog.config
+2025-12-21 15:10:50.7464 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-12-21 15:10:50.7594 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2025-12-21 15:10:50.7809 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Users\alima\Desktop\GitHubProjeler\Asp.Net-Core-Web-API\EfProject\bsStoreApp\WebApi\nlog.config
+2025-12-21 15:17:07.6594 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-12-21 15:17:07.6777 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2025-12-21 15:17:07.7052 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Users\alima\Desktop\GitHubProjeler\Asp.Net-Core-Web-API\EfProject\bsStoreApp\WebApi\nlog.config
+2025-12-21 15:17:43.1575 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-12-21 15:17:43.1786 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2025-12-21 15:17:43.2071 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Users\alima\Desktop\GitHubProjeler\Asp.Net-Core-Web-API\EfProject\bsStoreApp\WebApi\nlog.config
+2025-12-21 15:20:15.9053 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-12-21 15:20:15.9163 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2025-12-21 15:20:15.9340 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Users\alima\Desktop\GitHubProjeler\Asp.Net-Core-Web-API\EfProject\bsStoreApp\WebApi\nlog.config
+2025-12-21 15:20:19.6510 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-12-21 15:20:19.6634 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2025-12-21 15:20:19.6848 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Users\alima\Desktop\GitHubProjeler\Asp.Net-Core-Web-API\EfProject\bsStoreApp\WebApi\nlog.config
+2025-12-21 15:23:44.2406 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-12-21 15:23:44.2536 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2025-12-21 15:23:44.2815 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Users\alima\Desktop\GitHubProjeler\Asp.Net-Core-Web-API\EfProject\bsStoreApp\WebApi\nlog.config
+2025-12-21 15:25:45.8535 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-12-21 15:25:45.8715 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2025-12-21 15:25:45.8985 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Users\alima\Desktop\GitHubProjeler\Asp.Net-Core-Web-API\EfProject\bsStoreApp\WebApi\nlog.config
+2025-12-21 15:29:10.1377 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-12-21 15:29:10.1502 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2025-12-21 15:29:10.1698 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Users\alima\Desktop\GitHubProjeler\Asp.Net-Core-Web-API\EfProject\bsStoreApp\WebApi\nlog.config
+2025-12-21 15:29:56.2135 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-12-21 15:29:56.2237 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2025-12-21 15:29:56.2395 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Users\alima\Desktop\GitHubProjeler\Asp.Net-Core-Web-API\EfProject\bsStoreApp\WebApi\nlog.config
+2025-12-21 15:29:57.9286 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-12-21 15:29:57.9400 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2025-12-21 15:29:57.9629 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Users\alima\Desktop\GitHubProjeler\Asp.Net-Core-Web-API\EfProject\bsStoreApp\WebApi\nlog.config
+2025-12-21 15:32:22.2822 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-12-21 15:32:22.2946 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2025-12-21 15:32:22.3202 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Users\alima\Desktop\GitHubProjeler\Asp.Net-Core-Web-API\EfProject\bsStoreApp\WebApi\nlog.config
+2025-12-21 15:32:47.5414 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-12-21 15:32:47.5568 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2025-12-21 15:32:47.5819 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Users\alima\Desktop\GitHubProjeler\Asp.Net-Core-Web-API\EfProject\bsStoreApp\WebApi\nlog.config
+2025-12-21 15:33:34.6390 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-12-21 15:33:34.6566 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2025-12-21 15:33:34.6710 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Users\alima\Desktop\GitHubProjeler\Asp.Net-Core-Web-API\EfProject\bsStoreApp\WebApi\nlog.config
+2025-12-21 15:33:52.0403 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-12-21 15:33:52.0517 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2025-12-21 15:33:52.0709 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Users\alima\Desktop\GitHubProjeler\Asp.Net-Core-Web-API\EfProject\bsStoreApp\WebApi\nlog.config
+2025-12-21 15:34:55.4294 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-12-21 15:34:55.4416 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2025-12-21 15:34:55.4587 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Users\alima\Desktop\GitHubProjeler\Asp.Net-Core-Web-API\EfProject\bsStoreApp\WebApi\nlog.config
+2025-12-21 15:35:10.7113 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-12-21 15:35:10.7216 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2025-12-21 15:35:10.7369 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Users\alima\Desktop\GitHubProjeler\Asp.Net-Core-Web-API\EfProject\bsStoreApp\WebApi\nlog.config
+2025-12-21 15:35:12.7149 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-12-21 15:35:12.7302 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2025-12-21 15:35:12.7498 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Users\alima\Desktop\GitHubProjeler\Asp.Net-Core-Web-API\EfProject\bsStoreApp\WebApi\nlog.config
+2025-12-21 15:35:27.7705 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-12-21 15:35:27.7804 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2025-12-21 15:35:27.7804 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Users\alima\Desktop\GitHubProjeler\Asp.Net-Core-Web-API\EfProject\bsStoreApp\WebApi\nlog.config
+2025-12-21 16:17:45.8358 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-12-21 16:17:45.8487 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2025-12-21 16:17:45.8668 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Users\alima\Desktop\GitHubProjeler\Asp.Net-Core-Web-API\EfProject\bsStoreApp\WebApi\nlog.config
+2025-12-21 16:18:58.8887 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-12-21 16:18:58.8998 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2025-12-21 16:18:58.9169 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Users\alima\Desktop\GitHubProjeler\Asp.Net-Core-Web-API\EfProject\bsStoreApp\WebApi\nlog.config
+2025-12-21 16:20:41.9342 Info AppDomain Shutting down. LogFactory closing...
+2025-12-21 16:20:41.9342 Info LogFactory has been disposed.
+2025-12-21 16:39:29.1722 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-12-21 16:39:29.1843 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2025-12-21 16:39:29.2002 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Users\alima\Desktop\GitHubProjeler\Asp.Net-Core-Web-API\EfProject\bsStoreApp\WebApi\nlog.config
