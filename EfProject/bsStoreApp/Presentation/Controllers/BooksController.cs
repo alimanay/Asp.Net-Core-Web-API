@@ -1,4 +1,5 @@
-﻿using Entites.Exceptions;
+﻿using Entites.DataTransferObjects;
+using Entites.Exceptions;
 using Entites.Models;
 using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.Mvc;
@@ -41,7 +42,7 @@ namespace Presentation.Controllers
                 return StatusCode(201, book);
         }
         [HttpPut("{id}")]
-        public IActionResult UpdateOneBook(int id, Book book)
+        public IActionResult UpdateOneBook(int id, BookDtoForUpdate book)
         {  if (book is null)
                     return BadRequest();//400
                 _manager.BookService.UpdateOneBook(id, book, true);
@@ -67,7 +68,7 @@ namespace Presentation.Controllers
                     return NotFound();
                 }
                 book.ApplyTo(enitiy);
-                _manager.BookService.UpdateOneBook(id, enitiy, true);
+                _manager.BookService.UpdateOneBook(id, new BookDtoForUpdate(enitiy.Id,enitiy.Title,enitiy.Price), true);
                 return NoContent();
         }
     }
